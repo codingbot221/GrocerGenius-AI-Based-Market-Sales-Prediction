@@ -51,12 +51,13 @@ Strengths: Detailed features about products and outlets for predictive modeling.
 Challenges: Missing values in critical fields.
 Installation & Usage
 1. Clone the Repository
-git clone https://github.com/amalsalilan/GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024.git
-cd GrocerGenius_AI_Based_Supermarket_Sales_Prediction_Infosys_Internship_Oct2024
+git clone https://github.com/codingbot221/GrocerGenius-AI-Based-Market-Sales-Prediction.git
+cd GrocerGenius_AI_Based_Supermarket_Sales_Prediction
+
 2. Install Dependencies
 Make sure you have Python installed. Install the required libraries using:
-
 pip install -r requirements.txt
+
 3. Run the Project
 Data Analysis: Use Jupyter Notebooks in the repository to explore the data and build models.
 API Deployment: Navigate to the Streamlit app:
